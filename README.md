@@ -99,3 +99,10 @@ A tela de edição permite que o usuário altere os dados de uma disciplina já 
 - Tanto a tela principal quanto as telas de inserção e edição possuem um estado de carregamento que exibe um **spinner** e a mensagem **CARREGANDO...** enquanto os dados estão sendo recuperados ou enviados para a API REST.
   
 - O carregamento é centralizado e visível ao usuário para melhorar a experiência de uso.
+
+
+## 5. Resultado Final
+
+![CRUD](./img/crud.png)
+![Novo](./img/new.png)
+![Editar](./img/edit.png)
